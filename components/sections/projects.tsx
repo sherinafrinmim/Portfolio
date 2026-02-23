@@ -53,7 +53,7 @@ export function ProjectsSection() {
           </h2>
           <p className='mt-6 text-lg leading-8 text-muted-foreground'>
             Here are some of my recent projects that showcase my skills and
-            expertise in frontend development.
+            expertise.
           </p>
         </motion.div>
 
