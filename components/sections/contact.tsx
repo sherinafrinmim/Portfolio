@@ -56,8 +56,7 @@ export function ContactSection() {
             Get in Touch
           </h2>
           <p className="mt-6 text-lg leading-8 text-muted-foreground">
-            Have a project in mind? Let's work together to bring your ideas to
-            life.
+            Have a question in mind? Feel free to reach!
           </p>
         </motion.div>
 
